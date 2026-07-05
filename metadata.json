@@ -1,0 +1,6 @@
+{
+  "name": "رحيق السنين",
+  "description": "المدونة الرسمية لفضيلة الدكتور نصر بن إبراهيم بركات - سيرة ذاتية، كتب، بحوث ومقالات، خطب ومحاضرات، ومشاريع دعوية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
